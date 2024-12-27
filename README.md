@@ -28,23 +28,28 @@ npm run dev
 
 
 This will start the frontend on http://localhost:3000 and the backend on http://localhost:5000.
+## Scripts
 
-Scripts
-npm run frontend: Starts the frontend development server.
-npm run backend: Starts the backend server.
-npm run dev: Runs both frontend and backend concurrently.
-Dependencies
-Frontend
-React
-Vite
-Axios
-FontAwesome
-TailwindCSS
-Backend
-Node.js
-Express
-DevDependencies
-Concurrently
-License
+- `npm run frontend`: Starts the frontend development server.
+- `npm run backend`: Starts the backend server.
+- `npm run dev`: Runs both frontend and backend concurrently.
+
+## Dependencies
+
+### Frontend
+- React
+- Vite
+- Axios
+- FontAwesome
+- TailwindCSS
+
+### Backend
+- Node.js
+- Express
+
+### DevDependencies
+- Concurrently
+
+## License
+
 This project is licensed under the MIT License.
-
