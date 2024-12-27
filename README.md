@@ -5,11 +5,20 @@
 
 With an intuitive interface, real-time analysis, and actionable insights, SteroidCheck is a transformative tool for achieving quality assurance in dairy products.
 
-Features
-Real-Time Predictions: Predicts safe steroid dosages instantly based on input parameters.
-Machine Learning Integration: Utilizes trained models to ensure accurate and reliable results.
-User-Friendly Interface: Simplified design for ease of use by farmers, veterinarians, and regulators.
-Compliance Monitoring: Ensures adherence to global food safety standards.
+## **Features**
+
+- **Real-Time Predictions**  
+  Predicts safe steroid dosages instantly based on input parameters.
+
+- **Machine Learning Integration**  
+  Utilizes trained models to ensure accurate and reliable results.
+
+- **User-Friendly Interface**  
+  Simplified design for ease of use by farmers, veterinarians, and regulators.
+
+- **Compliance Monitoring**  
+  Ensures adherence to global food safety standards.
+
 
 ## Installation
 
