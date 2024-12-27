@@ -1,0 +1,72 @@
+.steroid-checker {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    text-align: center;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-mode .steroid-checker {
+    background-color: #333;
+    color: #fff;
+    border-color: #444;
+}
+
+.steroid-checker h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: inherit;
+}
+
+.steroid-checker form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.steroid-checker input {
+    width: 80%;
+    margin-bottom: 15px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+    color: inherit;
+    background-color: inherit;
+}
+
+body.dark-mode .steroid-checker input {
+    border-color: #555;
+}
+
+.steroid-checker input:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+.steroid-checker button {
+    width: 80%;
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.steroid-checker button:hover {
+    background-color: #0056b3;
+}
+
+.steroid-checker p {
+    margin-top: 20px;
+    font-size: 18px;
+    color: inherit;
+}

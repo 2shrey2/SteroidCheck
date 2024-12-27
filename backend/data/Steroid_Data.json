@@ -1,0 +1,257 @@
+{
+"Sheet1":[
+ {
+  "Product ID": 1,
+  "Product Name": "Heifer Muscle Tissue",
+  "Type": "Meat",
+  "Steroid Type": "β-Trenbolone",
+  "Steroid Level (µg\/kg)": 2,
+  "Legal Limit (µg\/kg)": 2,
+  "Country of Origin": "USA",
+  "Tested Date": "2024-01-15",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 2,
+  "Product Name": "Heifer Liver Tissue",
+  "Type": "Meat",
+  "Steroid Type": "α-Trenbolone",
+  "Steroid Level (µg\/kg)": 10,
+  "Legal Limit (µg\/kg)": 10,
+  "Country of Origin": "Canada",
+  "Tested Date": "2024-02-10",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 3,
+  "Product Name": "Bovine Muscle Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Zearanol",
+  "Steroid Level (µg\/kg)": 2,
+  "Legal Limit (µg\/kg)": 2,
+  "Country of Origin": "Japan",
+  "Tested Date": "2024-03-12",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 4,
+  "Product Name": "Bovine Liver Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Zearanol",
+  "Steroid Level (µg\/kg)": 10,
+  "Legal Limit (µg\/kg)": 10,
+  "Country of Origin": "USA",
+  "Tested Date": "2024-04-05",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 5,
+  "Product Name": "Cattle Liver Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Melengestrol Acetate",
+  "Steroid Level (µg\/kg)": 2,
+  "Legal Limit (µg\/kg)": 2,
+  "Country of Origin": "Canada",
+  "Tested Date": "2024-05-22",
+  "Source": "JECFA (Proposed, not adopted)"
+ },
+ {
+  "Product ID": 6,
+  "Product Name": "Heifer Muscle Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Testosterone",
+  "Steroid Level (µg\/kg)": 0.64,
+  "Legal Limit (µg\/kg)": "No MRLs necessary",
+  "Country of Origin": "USA",
+  "Tested Date": "2024-06-10",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 7,
+  "Product Name": "Heifer Fat Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Testosterone",
+  "Steroid Level (µg\/kg)": 2.6,
+  "Legal Limit (µg\/kg)": "No MRLs necessary",
+  "Country of Origin": "USA",
+  "Tested Date": "2024-06-12",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 8,
+  "Product Name": "Heifer Kidney Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Testosterone",
+  "Steroid Level (µg\/kg)": 1.9,
+  "Legal Limit (µg\/kg)": "No MRLs necessary",
+  "Country of Origin": "USA",
+  "Tested Date": "2024-06-14",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 9,
+  "Product Name": "Heifer Liver Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Testosterone",
+  "Steroid Level (µg\/kg)": 1.3,
+  "Legal Limit (µg\/kg)": "No MRLs necessary",
+  "Country of Origin": "USA",
+  "Tested Date": "2024-06-16",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 10,
+  "Product Name": "Steer Muscle Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Progesterone",
+  "Steroid Level (µg\/kg)": 3,
+  "Legal Limit (µg\/kg)": "No MRLs necessary",
+  "Country of Origin": "USA",
+  "Tested Date": "2024-06-18",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 11,
+  "Product Name": "Steer Fat Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Progesterone",
+  "Steroid Level (µg\/kg)": 12,
+  "Legal Limit (µg\/kg)": "No MRLs necessary",
+  "Country of Origin": "USA",
+  "Tested Date": "2024-06-20",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 12,
+  "Product Name": "Steer Kidney Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Progesterone",
+  "Steroid Level (µg\/kg)": 9,
+  "Legal Limit (µg\/kg)": "No MRLs necessary",
+  "Country of Origin": "USA",
+  "Tested Date": "2024-06-22",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 13,
+  "Product Name": "Steer Liver Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Progesterone",
+  "Steroid Level (µg\/kg)": 6,
+  "Legal Limit (µg\/kg)": "No MRLs necessary",
+  "Country of Origin": "USA",
+  "Tested Date": "2024-06-24",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 14,
+  "Product Name": "Cattle Muscle Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Trenbolone Acetate",
+  "Steroid Level (µg\/kg)": 2,
+  "Legal Limit (µg\/kg)": 2,
+  "Country of Origin": "Canada",
+  "Tested Date": "2024-06-26",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 15,
+  "Product Name": "Cattle Liver Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Trenbolone Acetate",
+  "Steroid Level (µg\/kg)": 10,
+  "Legal Limit (µg\/kg)": 10,
+  "Country of Origin": "Japan",
+  "Tested Date": "2024-06-28",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 16,
+  "Product Name": "Bovine Muscle Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Zeranol",
+  "Steroid Level (µg\/kg)": 2,
+  "Legal Limit (µg\/kg)": 2,
+  "Country of Origin": "Canada",
+  "Tested Date": "2024-07-01",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 17,
+  "Product Name": "Bovine Liver Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Zeranol",
+  "Steroid Level (µg\/kg)": 10,
+  "Legal Limit (µg\/kg)": 10,
+  "Country of Origin": "Japan",
+  "Tested Date": "2024-07-03",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 18,
+  "Product Name": "Bovine Meat Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Zeranol",
+  "Steroid Level (µg\/kg)": 5,
+  "Legal Limit (µg\/kg)": 5,
+  "Country of Origin": "Australia",
+  "Tested Date": "2024-07-05",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 19,
+  "Product Name": "Bovine Edible Offal",
+  "Type": "Meat",
+  "Steroid Type": "Zeranol",
+  "Steroid Level (µg\/kg)": 20,
+  "Legal Limit (µg\/kg)": 20,
+  "Country of Origin": "Australia",
+  "Tested Date": "2024-07-07",
+  "Source": "JECFA\/Codex"
+ },
+ {
+  "Product ID": 20,
+  "Product Name": "Cattle Liver Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Melengestrol Acetate",
+  "Steroid Level (µg\/kg)": 2,
+  "Legal Limit (µg\/kg)": 2,
+  "Country of Origin": "USA",
+  "Tested Date": "2024-07-10",
+  "Source": "JECFA (Proposed, not adopted)"
+ },
+ {
+  "Product ID": 21,
+  "Product Name": "Cattle Fat Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Melengestrol Acetate",
+  "Steroid Level (µg\/kg)": 5,
+  "Legal Limit (µg\/kg)": 5,
+  "Country of Origin": "USA",
+  "Tested Date": "2024-07-12",
+  "Source": "JECFA (Proposed, not adopted)"
+ },
+ {
+  "Product ID": 22,
+  "Product Name": "Cattle Liver Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Melengestrol Acetate",
+  "Steroid Level (µg\/kg)": 6,
+  "Legal Limit (µg\/kg)": 6,
+  "Country of Origin": "Canada",
+  "Tested Date": "2024-07-14",
+  "Source": "JECFA (Proposed, not adopted)"
+ },
+ {
+  "Product ID": 23,
+  "Product Name": "Cattle Fat Tissue",
+  "Type": "Meat",
+  "Steroid Type": "Melengestrol Acetate",
+  "Steroid Level (µg\/kg)": 14,
+  "Legal Limit (µg\/kg)": 14,
+  "Country of Origin": "Canada",
+  "Tested Date": "2024-07-16",
+  "Source": "JECFA (Proposed, not adopted)"
+ }
+]
+}

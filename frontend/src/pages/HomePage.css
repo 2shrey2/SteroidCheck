@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,400&display=swap');
+
+.hero {
+  background-image: url('/assets/background_home.jpg'); /* Adjust the path to your image */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh; /* Ensure the hero section takes at least the full viewport height */
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  align-items: flex-start; /* Align items to the start (left) */
+  justify-content: center; /* Center items vertically */
+  text-align: left; /* Align text to the left */
+  padding: 0 2rem; /* Add some padding */
+}
+
+.hero-content {
+  color: black; /* Default text color for light mode */
+  max-width: 50%; /* Adjust the width as needed */
+}
+
+body.dark-mode .hero-content {
+  color: white; /* Text color for dark mode */
+}
+
+.hero-title {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 4rem;
+  margin: 0;
+}
+
+.hero-subtitle {
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-top: 1rem;
+}
+
+.hero-button {
+  margin-top: 2rem;
+  padding: 0.5rem 1rem;
+  background-color: transparent;
+  color: inherit; /* Inherit text color */
+  border: 2px solid currentColor; /* Border color same as text color */
+  border-radius: 0; /* Square shape */
+  cursor: pointer;
+  font-family: 'Playfair Display', serif;
+  font-size: 1rem;
+}
+
+.hero-button:hover {
+  background-color: rgba(255, 255, 255, 0.1); /* Slightly transparent on hover */
+}
+
+.about-us {
+  margin-top: 4rem; /* Add some space above the About Us section */
+  color: black; /* Default text color for light mode */
+}
+
+body.dark-mode .about-us {
+  color: white; /* Text color for dark mode */
+}
+
+.about-us h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.about-us p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
