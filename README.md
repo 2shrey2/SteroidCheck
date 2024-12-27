@@ -1,7 +1,15 @@
-# Project
+# SteroidCheck
 
 ## Overview
-This project consists of a frontend and a backend. The frontend is built with React and Vite, while the backend is built with Node.js and Express.
+**SteroidCheck** is a cutting-edge platform designed to promote the safe and legal use of steroids in milk production. By integrating machine learning, it predicts permissible steroid levels based on key factors such as animal type, age, weight, and steroid class. This solution aids farmers and regulatory authorities in ensuring compliance with food safety standards, safeguarding public health, and improving livestock management practices.
+
+With an intuitive interface, real-time analysis, and actionable insights, SteroidCheck is a transformative tool for achieving quality assurance in dairy products.
+
+Features
+Real-Time Predictions: Predicts safe steroid dosages instantly based on input parameters.
+Machine Learning Integration: Utilizes trained models to ensure accurate and reliable results.
+User-Friendly Interface: Simplified design for ease of use by farmers, veterinarians, and regulators.
+Compliance Monitoring: Ensures adherence to global food safety standards.
 
 ## Installation
 
