@@ -9,7 +9,7 @@ SteroidCheck is a cutting-edge platform designed to promote the safe and legal u
 - Predicts safe steroid dosages instantly based on input parameters
 - Continuous monitoring and updates
 <div align="center">
-  <img src="./assets/prediction_demo.png" alt="Predictions Interface" width="600"/>
+  <img src="C:/Users/DELL/Desktop/PROJECTS/STEROID/Steroid/frontend/public/assets/prediction_demo.png" alt="Predictions Interface" width="600"/>
 </div>
 
 ### 🤖 Machine Learning Integration
@@ -20,7 +20,7 @@ SteroidCheck is a cutting-edge platform designed to promote the safe and legal u
 - Simplified design for ease of use
 - Intuitive navigation and controls
 <div align="center">
-  <img src="./assets/home_demo.png" alt="User Interface" width="600"/>
+  <img src="C:/Users/DELL/Desktop/PROJECTS/STEROID/Steroid/frontend/public/assets/home_demo.png" alt="User Interface" width="600"/>
 </div>
 
 ### ✅ Compliance Monitoring
@@ -51,11 +51,6 @@ npm run dev
 ```
 Frontend: http://localhost:3000  
 Backend: http://localhost:5000
-
-## Tech Stack
-<div align="center">
-  <img src="./assets/tech-stack.png" alt="Tech Stack" width="600"/>
-</div>
 
 ### Frontend
 - React
